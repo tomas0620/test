@@ -1,0 +1,9 @@
+---
+ name: Sygic simple polyline demo
+ description: This demo shows how to integrate Sygic Maps with simple polyline
+ authors:   
+   - Tomas Cicman
+ resources:
+
+ normalize_css: no
+ ...
